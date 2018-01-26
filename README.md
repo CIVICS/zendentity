@@ -1,5 +1,5 @@
-# Blockchain Based Digital Signatures: 
-## Admissibility and Enforceability
+## Get Your Zendentity On
+## With Blockchain Based Digital Signatures
 
 **Lunch Workshop**
 * Speaker: [Dazza Greenwood, JD](http://dazzagreenwood.com)
@@ -27,11 +27,11 @@ Interested to follow along from afar? Want to grab an oar and help us row? This 
 
 ------------------
 
-# Live Talk Webcast
+## Live Talk Webcast
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/XU0CCAMHwcU" frameborder="0" allowfullscreen></iframe>
 
-# Live Talk Location
+## Live Talk Location
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118141.57779663526!2d114.08547759916698!3d22.280856980614864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b2c091555%3A0x75f0632d0a46cfa9!2zTWV0dMSB!5e0!3m2!1sen!2sus!4v1516947243522" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
