@@ -1,4 +1,4 @@
-## Get Your Zendentity On
+# Get Your Zendentity On
 ## With Blockchain Based Digital Signatures
 
 **Lunch Workshop**
