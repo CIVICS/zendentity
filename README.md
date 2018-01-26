@@ -16,7 +16,7 @@ Important questions and issues have already started to take form as we run throu
 * the right evidence was created and properly maintained sufficiently to prove a valid chain of custody occurred
 * …and many more hitches, snags and snafus!
 
-For references, this Google Doc includes a draft of the witness examination and other aspects of this novel process of “legal hacking”.
+For references, this [Google Doc](https://docs.google.com/document/d/1OT8sxwOqO3F7QCTlqaCAhIjMKwbXNEKB40xluQ1DOco/pub) includes a draft of the witness examination and other aspects of this novel process of “legal hacking”.
 
 We expect and hope the above exploratory prototyping method will generate constructive and valuable feedback and other inputs to the software tool and practical innovation design and build process.
 
