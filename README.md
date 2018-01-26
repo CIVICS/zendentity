@@ -6,6 +6,7 @@
 * Date/Time: February 1st, 12:30 PM - 2:00 PM
 * Location:  Metta (21st floor California Tower LKF), Hong Kong
 * Sponsors: TBD
+* Tickets: Eventbrite (coming soon)
 
 Members of Massachusetts Legal Hackers and the law.MIT.edu research team have been pursuing a unique approach to blockchain based cryptographic signature rapid development. Rather than starting with the idea of building out some technology because it is cool and innovative or attempting to catch the wave of a specific business opportunity this prototype effort is starting with the assumption that the users have ended up in litigation and working backwards from that scenario. The idea is to test the legal sufficiency of blockchain based digital signatures for purposes of executing standard commercial contracts and also to explore whether the software implementation and manner of usage are likely to produce predictable legal results. By probing the jurisprudential event horizon in this way, we hope to reveal some combination of confirmation of our implementation path and probably also some unexpected hitches and snags along the way.
 
@@ -24,3 +25,14 @@ The intention is that downstream implications of design-phase decisions will bec
 
 This is literally a process of “evidence-based” requirements gathering.
 Interested to follow along from afar? Want to grab an oar and help us row? This activity is being pursued as a participatory collaborative event series that is free and open to the public. To participate and contribute, start by joining Massachusetts Legal Hackers and RSVP to the next meetup event right here: https://www.meetup.com/Massachusetts-Legal-Hackers
+
+------------------
+
+
+# Live Talk Webcast
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/XU0CCAMHwcU" frameborder="0" allowfullscreen></iframe>
+
+# Live Talk Location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118141.57779663526!2d114.08547759916698!3d22.280856980614864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b2c091555%3A0x75f0632d0a46cfa9!2zTWV0dMSB!5e0!3m2!1sen!2sus!4v1516947243522" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
