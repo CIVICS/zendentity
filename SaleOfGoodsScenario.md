@@ -1,0 +1,5 @@
+# Sale of Goods
+
+* **Presenter: Dazza Greenwood**
+
+* [Swim Lane](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=VGl0bGUgU2FsZSBvZiBHb29kcwoKQWxpY2UtPkJvYjogAAcFIChTZWxsZXIpIHNpZ25zIGNvbnRyYWN0CgpCb2ItPgArBTogQm9iIChCdXllcikgY291bnRlcgAqBgAVEnBheXMAVQYKCk5vdGUgcmlnaHQgb2YAagYAbwhkaXNzYXBlYXIAPActPi1Db3VydABmBnN1ZQA-ByAACxRFbnRlcnMgU2lnbmF0dXJlIGludG8gRXZpZGVuY2UKCg&s=napkin&h=DqW5Y80N5EiNrJQ7]
