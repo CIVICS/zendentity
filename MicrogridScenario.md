@@ -1,4 +1,4 @@
-# Microgrid Swimlane Diagram
+# Microgrid Scenario
 
 * Presenter: Tiemae H. Roquerre
 
