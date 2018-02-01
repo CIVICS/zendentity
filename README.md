@@ -13,8 +13,8 @@
 
 Let’s face it - our digital identities and personal data have become important economic and practical resources of rapidly increasing value. Personal identity involves more than money can buy, but it’s also part of an emerging digital asset class. Thriving industries exist to collect, track and trade this information while business and legal models respecting the rights and expectations of all the stakeholders (including you as a consumer) have not evolved to keep pace. The rise of “smart” phones, homes and cities accelerated by blockchain, smart contracts and mass-automation offer new modes for control, methods for valuation and mechanisms for exchange of key rights to this new asset type. We will catalyze and focus discussion around an applied identity anchor scenario exploring the legal validity, admissibility and enforceability of blockchain-based digital signatures to grant or revoke consent and authorization for electronic transactions. What are the key issues, options and opportunities for startups generally and especially for innovative FinTech products, services and markets arising from this new digital asset class? Join the discussion and let’s find out - together.
 
-* [Sale of Goods Scenario](SaleOfGoodsScenario.html)
-* [MicroGrid Scenario](MicrogridScenario.html)
+* [Sale of Goods Scenario](http://zendentity.com/SaleOfGoodsScenario.html)
+* [MicroGrid Scenario](http://zendentity.com/MicrogridScenario.html)
 
 -------------
 
